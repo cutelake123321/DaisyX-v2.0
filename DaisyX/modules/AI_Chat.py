@@ -263,7 +263,7 @@ async def inuka(client, message):
 
 
 @daisyx.on_message(
-    filters.regex("Daisy|daisy|DaisyX|daisyx|Daisyx")
+    filters.regex("Lana|LANA|lanita|secretaria|lana")
     & ~filters.bot
     & ~filters.via_bot
     & ~filters.forwarded
